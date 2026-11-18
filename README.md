@@ -6,4 +6,6 @@ A cascading rainbow of pixels: one pixel falls, then two, then a whole rainbow. 
 
 This repository only holds the downloads; the source isn't public. Every release lists what changed.
 
-Made by lewdnasty. If you share Pixel Rain, show it in a video or stream, or post about it, please credit **"Pixel Rain by lewdnasty"** wherever you can. Thank you!
+Made by lewdnasty.
+
+Please credit the author of this software, **lewdnasty**, wherever you share, stream or post about Pixel Rain. Thank you! [YouTube](https://www.youtube.com/@crowcade) · [Reddit](https://www.reddit.com/user/Charmilio/) · [Steam](https://steamcommunity.com/id/Charmilibro/) · [RetroAchievements](https://retroachievements.org/user/charmie)
